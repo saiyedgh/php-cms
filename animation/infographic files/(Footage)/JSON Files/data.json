@@ -1,0 +1,218 @@
+[
+    {
+        "id": "14",
+        "spotify_id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab6761610000517412a2ef08d00dd7451a6dbed6",
+        "followers": "89263613",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+        "id": "12",
+        "spotify_id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174cdce7620dc940db079bf4952",
+        "followers": "73009978",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+        "id": "7",
+        "spotify_id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab676161000051749e46a78c5cd2f7a8e7669980",
+        "followers": "59406128",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+        "id": "3",
+        "spotify_id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab676161000051748ae7f2aaa9817a704a87ea36",
+        "followers": "54093101",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/1uNFoZAHBGtllmzznpCI3s"
+    },
+    {
+        "id": "28",
+        "spotify_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174d8b9980db67272cb4d2c3daf",
+        "followers": "53807528",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+        "id": "29",
+        "spotify_id": "7dGJo4pcD2V6oG8kP0tJRR",
+        "name": "Eminem",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174a00b11c129b27a88fc72f36b",
+        "followers": "50267594",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/7dGJo4pcD2V6oG8kP0tJRR"
+    },
+    {
+        "id": "11",
+        "spotify_id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab676161000051749e3acf1eaf3b8846e836f441",
+        "followers": "46671011",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+        "id": "30",
+        "spotify_id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174019d6873a01987cbe35888cd",
+        "followers": "46187628",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/5pKCCKE2ajJHZ9KAiaK11H"
+    },
+    {
+        "id": "31",
+        "spotify_id": "3Nrfpe0tUJi4K4DXYWgMUX",
+        "name": "BTS",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab6761610000517482a5d58059f81867b871d8b6",
+        "followers": "42778138",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/3Nrfpe0tUJi4K4DXYWgMUX"
+    },
+    {
+        "id": "32",
+        "spotify_id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab676161000051746ad57a3cb26ae3ffd0f28f22",
+        "followers": "40791452",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/4q3ewBCX7sLwd24euuV69X"
+    },
+    {
+        "id": "33",
+        "spotify_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab6761610000517494fbdb362091111a47db337d",
+        "followers": "39553221",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+        "id": "41",
+        "spotify_id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "name": "Queen",
+        "image_url": "https:\/\/i.scdn.co\/image\/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
+        "followers": "38452053",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    {
+        "id": "16",
+        "spotify_id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174c36dd9eb55fb0db4911f25dd",
+        "followers": "36233122",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/0du5cEVh5yTK9QJze8zA0C"
+    },
+    {
+        "id": "4",
+        "spotify_id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "name": "Shawn Mendes",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab6761610000517492df88d91dc5a20ed4859963",
+        "followers": "35646454",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/7n2wHs1TKAczGzO7Dd2rGr"
+    },
+    {
+        "id": "40",
+        "spotify_id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab6761610000517468f6e5892075d7f22615bd17",
+        "followers": "32082643",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/4dpARuHxo51G3z768sgnrY"
+    },
+    {
+        "id": "13",
+        "spotify_id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "name": "Selena Gomez",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174a5205abffd84341e5bace828",
+        "followers": "31787999",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/0C8ZW7ezQVs4URX5aX7Kqx"
+    },
+    {
+        "id": "39",
+        "spotify_id": "7vk5e3vY1uw9plTHJAMwjN",
+        "name": "Alan Walker",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174c02d416c309a68b04dc94576",
+        "followers": "31676457",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/7vk5e3vY1uw9plTHJAMwjN"
+    },
+    {
+        "id": "38",
+        "spotify_id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174d42a27db3286b58553da8858",
+        "followers": "30508682",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+        "id": "15",
+        "spotify_id": "6vWDO969PvNqNYHIOW5v0m",
+        "name": "Beyonc\u00e9",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174d3d058be8485c8583703b6d2",
+        "followers": "29722894",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/6vWDO969PvNqNYHIOW5v0m"
+    },
+    {
+        "id": "36",
+        "spotify_id": "4VMYDCV2IEDYJArk749S6m",
+        "name": "Daddy Yankee",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab6761610000517473c1b986fee414fa3a0d58a5",
+        "followers": "25195525",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/4VMYDCV2IEDYJArk749S6m"
+    },
+    {
+        "id": "5",
+        "spotify_id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "name": "Camila Cabello",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174f4a0158ec2c8cc0f203761da",
+        "followers": "24584080",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/4nDoRrQiYLoBzwC5BhVJzF"
+    },
+    {
+        "id": "37",
+        "spotify_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+        "name": "David Guetta",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab6761610000517475348e1aade2645ad9c58829",
+        "followers": "23561978",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/1Cs0zKBU1kc0i8ypK3B9ai"
+    },
+    {
+        "id": "34",
+        "spotify_id": "0hCNtLu0JehylgoiP8L4Gh",
+        "name": "Nicki Minaj",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174af3459f7c235fd25daf7f84f",
+        "followers": "23397662",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/0hCNtLu0JehylgoiP8L4Gh"
+    },
+    {
+        "id": "35",
+        "spotify_id": "3qm84nBOXUEQ2vnTfUTTFC",
+        "name": "Guns N' Roses",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab6761610000517450defaf9fc059a1efc541f4c",
+        "followers": "22807709",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/3qm84nBOXUEQ2vnTfUTTFC"
+    },
+    {
+        "id": "42",
+        "spotify_id": "0EmeFodog0BfCgMzAIvKQp",
+        "name": "Shakira",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174ded9d5f8bb8611aad61df058",
+        "followers": "22779322",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/0EmeFodog0BfCgMzAIvKQp"
+    },
+    {
+        "id": "2",
+        "spotify_id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616100005174749ba770a33230206f8fe159",
+        "followers": "20236329",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/1HY2Jd0NmPuamShAr6KMms"
+    },
+    {
+        "id": "21",
+        "spotify_id": "2d0hyoQ5ynDBnkvAbJKORj",
+        "name": "Rage Against The Machine",
+        "image_url": "https:\/\/i.scdn.co\/image\/679859f2e86b8b6b5b6d2a728e410dd4fe4b4af6",
+        "followers": "4596373",
+        "spotify_url": "https:\/\/open.spotify.com\/artist\/2d0hyoQ5ynDBnkvAbJKORj"
+    }
+]

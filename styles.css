@@ -1,0 +1,512 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300&display=swap");
+
+/* MOBILE FIRST  APPROACH*/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Lato", Arial, sans-serif;
+  font-size: calc(0.8rem + 0.5vw);
+  color: #262626;
+  background-color: #ebebeb;
+}
+
+a {
+  font-size: calc(0.8rem + 0.25vw);
+}
+
+a:link,
+a:active,
+a:hover,
+a:visited {
+  text-decoration: none;
+  color: blue;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+form {
+  padding: 1rem 0.5rem;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #999;
+}
+
+th {
+  padding: 0.25rem 2rem;
+}
+
+/* --------------------- Header & Main Styles --------------------- */
+
+header {
+  background-color: #262626;
+  color: #fff;
+}
+
+header,
+main {
+  padding: 0.25rem;
+}
+
+.main-container main {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.nav-container a {
+  color: #fff;
+  font-size: calc(1.15rem + 0.25vw);
+}
+
+.nav-container a:hover {
+  color: #ccc;
+}
+
+.nav-container,
+main {
+  width: 100vw;
+  margin: 0 auto;
+}
+
+nav a {
+  padding: 0 0.5rem;
+}
+
+.logo-container img {
+  width: 35px;
+}
+
+.account-container {
+  margin: 0 1rem 0 0.5rem;
+}
+
+.account-container img {
+  width: 25px;
+}
+
+.logo-container {
+  margin-right: 2rem;
+}
+
+.account-container div {
+  padding: 0 0.3rem;
+}
+
+.logout-box {
+  display: none;
+}
+
+.logout-box a {
+  font-size: 0.8rem;
+}
+
+.events-go-branding {
+  padding: 2rem;
+  text-align: center;
+  margin: auto;
+}
+
+.events-go-branding .logo-container {
+  margin: auto;
+}
+/* --------------------- END --------------------- */
+
+/* --------------------- Flex & Grid Styles --------------------- */
+
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.nav-container {
+  justify-content: space-between;
+}
+
+nav,
+.account-container {
+  align-items: center;
+}
+
+.cards-container {
+  padding: 2rem 0;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  gap: 20px 10px;
+  justify-items: center;
+}
+
+.event-card .card-box-02 .title_venue {
+  flex-basis: 74%;
+}
+
+.event-card .card-box-02 .price-box {
+  flex-basis: 24%;
+}
+
+.event-card {
+  flex-direction: column;
+}
+
+.event-card .card-box-04 {
+  margin-top: auto;
+  justify-content: space-between;
+  padding: 0.5rem 0.25rem;
+}
+
+#dashboard.flex {
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+/* --------------------- END --------------------- */
+
+/* --------------------- Other Styles --------------------- */
+
+.event-card {
+  width: 80%;
+  box-shadow: 3px 5px 10px #888888;
+}
+
+.event-card .day {
+  color: #904eba;
+  font-size: 3rem;
+  margin-bottom: 0.25rem;
+}
+
+.event-card .day_words,
+.event-card .month_year,
+.event-card .time,
+.event-card .venue {
+  color: #555;
+}
+
+.event-card .title,
+.event-card .venue {
+  font-size: calc(0.8rem + 0.5vw);
+}
+
+.event-card .schedule-container,
+.event-card .price-box {
+  text-align: center;
+  margin: auto;
+  padding: 0.25rem 0.25rem;
+}
+
+.event-card .title,
+.event-card .venue,
+.card-box-02 {
+  padding: 0.25rem 0;
+}
+
+.event-card .description {
+  font-size: calc(0.8rem + 0.5vw);
+}
+
+.card-box-02 {
+  border-bottom: solid 1px #999;
+}
+
+.event-card .title_venue,
+.event-card .card-box-03 {
+  padding: 0.25rem 0.5rem;
+}
+
+.event-card .price {
+  font-size: calc(1.2rem + 0.25vw);
+  font-weight: 700;
+  color: #f5d000;
+}
+
+.event-img {
+  width: 150px;
+  height: 150px;
+}
+
+.availability {
+  font-size: calc(0.7rem + 0.4vw);
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.manage-users {
+  font-size: calc(1.1rem + 0.6vw);
+  margin: 2rem auto;
+}
+
+.users-table-container {
+  margin: auto;
+  font-size: calc(0.8rem + 0.5vw);
+}
+
+.users-table {
+  margin: auto;
+}
+
+.users-table-container .button-container {
+  margin: 1rem auto;
+}
+
+tr.bottom-border {
+  border-bottom: 1px solid #999;
+}
+
+.table-row-padding td {
+  padding-left: calc(0.25rem + 1vw);
+  padding-right: calc(0.25rem + 1vw);
+}
+
+.posted-by {
+  padding: 0.75rem 0;
+  color: #555;
+  font-size: calc(0.6rem + 0.2vw);
+}
+
+.youtube-box {
+  margin: auto;
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.youtube-box iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.video-link {
+  border-top: 1px solid #999;
+  padding: 0.5rem 0;
+}
+
+.front-type-heading {
+  font-size: calc(1.2rem + 0.25vw);
+  border-top: 0.5px solid #555;
+  border-bottom: 0.5px solid #555;
+  padding: 1rem 0;
+}
+
+.artists .card-container {
+  background-color: #fff;
+  box-shadow: 3px 5px 10px #888888;
+}
+
+.artists > div {
+  width: 90vw;
+}
+
+.artists .card-container > div:nth-of-type(2) {
+  padding: 1rem;
+  width: 60%;
+}
+
+.artists .card-container > div {
+  flex-basis: auto;
+}
+
+.artist-img-container {
+  width: 150px;
+  height: 150px;
+  border: 1px solid #ebebeb;
+}
+
+.artist-img-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* --------------------- END --------------------- */
+
+/* --------------------- Button --------------------- */
+
+.button-container {
+  background-color: #262626;
+  width: 70px;
+}
+
+.button-container a {
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0.25rem 0.5rem;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.button-container a:link,
+.button-container a:visited,
+.button-container a:active {
+  color: white;
+}
+
+.button-container a:hover {
+  background-color: #904eba;
+}
+
+.button-container.add-event {
+  margin: 0.5rem auto;
+}
+
+.button-container.medium {
+  width: 200px;
+}
+
+.button-container.medium a {
+  padding: 0.15rem 1rem;
+}
+
+.button-container.large {
+  width: 300px;
+}
+
+.button-container.large a {
+  padding: 0.3rem 2rem;
+}
+
+/* --------------------- END --------------------- */
+
+/* --------------------- Media Queries --------------------- */
+
+@media only screen and (min-width: 787px) {
+  main {
+    padding: 1rem;
+  }
+  .logout-box {
+    display: block;
+  }
+  .cards-container {
+    padding: 2rem;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px 20px;
+  }
+  .event-card {
+    flex-basis: 49%;
+    width: 100%;
+  }
+  .button-container {
+    width: 100px;
+  }
+  .event-img {
+    width: 200px;
+    height: 200px;
+  }
+  .artists {
+    font-size: 1.15em;
+    line-height: 1.5;
+  }
+  .artist-img-container {
+    width: 250px;
+    height: 250px;
+  }
+  .artists > div {
+    width: 60vw;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .nav-container,
+  main {
+    width: 80vw;
+  }
+  .logo-container {
+    margin-right: 3rem;
+  }
+  .logo-container img {
+    width: 50px;
+  }
+  .account-container img {
+    width: 30px;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  .cards-container {
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px 25px;
+  }
+  .logout-box a {
+    font-size: 1rem;
+  }
+  .artists > div {
+    width: 40vw;
+  }
+}
+/* --------------------- END My Styles --------------------- */
+
+/* --------------------- V1 From Prof. Styles --------------------- */
+
+.error {
+  color: #f00;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin: 0 0 10px 0;
+  text-align: left;
+}
+
+textarea {
+  border-radius: 0;
+  font-size: 14px;
+  padding: 5px;
+  width: 100%;
+  margin: 0 0 10px 0;
+  box-sizing: border-box;
+}
+
+input,
+select {
+  font-family: "Lato", Arial, sans-serif;
+  border-radius: 0;
+  font-size: calc(0.8rem + 0.25vw);
+  font-weight: 300;
+  padding: 5px;
+  width: 100%;
+  margin: 0 0 10px 0;
+}
+
+input[type="submit"] {
+  display: block;
+  text-align: center;
+  font-family: "Lato", Arial, sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding: 0.25rem 0.5rem;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 0;
+  background-color: #262626;
+  color: #fff;
+  margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+  background-color: #904eba;
+}
+
+/* --------------------- END --------------------- */
