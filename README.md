@@ -1,6 +1,14 @@
 # php-cms-api
 
-# assignment Humber College, Multimedia Design and Development
+# Web Development Project
+
+## Tech Stack
+![CMS_Stack](https://github.com/saiyedgh/php-cms/assets/87451165/5474f4c4-eb3f-4493-9137-6dea41005764)
+
+## Application Architecture
+![CMS_IA](https://github.com/saiyedgh/php-cms/assets/87451165/a42e117c-7af8-439d-bbb6-a7a2400ad438)
+
+## About this Project
 
 This repository is a simple PHP CMS meant to be used as a starting point. The code consists of a simple login process, a dashboard, a place to view/add/edit/delete users, and a place to view/add/edit/delete projects. In an effort to keep the PHP code focused and basic, only the absolute bacis have been included. The whole CMS only consists of HTML, PHP, and SQL.
 
@@ -21,14 +29,15 @@ A few notes regarding the CMS:
   Search
   https://developer.spotify.com/documentation/web-api/reference/#/operations/search
 
-## Tutorial Requirements:
 
-- [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+## Requirements:
+
+- [Visual Studio Code](https://code.visualstudio.com/) (or any code editor)
 - [Filezilla](https://filezilla-project.org/) (or any FTP program)
 
 ## Prepared by
 
-    Syed-M. Hassan
+    Syed Hassan
 
 ## Base files and tutorial from the professor
 
