@@ -3,7 +3,7 @@
 # Web Development Project
 
 ## Tech Stack
-![CMS_Stack](https://github.com/saiyedgh/php-cms/assets/87451165/5474f4c4-eb3f-4493-9137-6dea41005764)
+![CMS_Stack](https://github.com/saiyedgh/php-cms/assets/87451165/e88847c8-cd2f-4ed3-816c-5c055e52b93c)
 
 ## Application Architecture
 ![CMS_IA](https://github.com/saiyedgh/php-cms/assets/87451165/a42e117c-7af8-439d-bbb6-a7a2400ad438)
